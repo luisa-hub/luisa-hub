@@ -25,4 +25,4 @@ I hope that technology can help the world to become a better place to live.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisa-hub&show_icons=true&locale=en&layout=compact" alt="luisa-hub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisa-hub&show_icons=true&locale=en" alt="luisa-hub" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=luisa-hub&show_icons=true&locale=en" alt="luisa-hub" /></p>

@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Luisa</h1>
-<h3 align="center">Developer in Brazil</h3>
+<h1 align="center">Hi🧟‍♀️ , I'm Luisa</h1>
+<h3 align="center">Developer and Computer Science student in Brazil 👩‍🎓</h3>
 
 - 🔭 I’m currently working on **a RPG game to learn SQL :)**
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **C# and .Net!**
 
 - ⚡ Fun fact **I like crochet! 🧶**
+
+I hope that technology can help the world to become a better place to live.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

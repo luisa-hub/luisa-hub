@@ -1,29 +1,94 @@
-<h1 align="center">Hi🧟‍♀️ , I'm Luisa</h1>
-<h3 align="center">Developer with bachelor's degree in Computer Science living in Brazil 🌎</h3>
+<h1 align="center">Hi 👋, I'm Luisa</h1>
+
+<h3 align="center">
+Computer Science graduate and Software Developer from Brazil 🇧🇷
+</h3>
+
+---
+
+### 👩‍💻 About Me
+
+  💼 Currently working at **NDD Tech** as a Software Developer 
+  
+  🚀 Developing scalable applications using **Angular, .NET, Entity Framework, Docker and Microservices**
+  
+  🌱 Currently improving my knowledge in **Software Architecture, Docker and Cloud technologies**
+  
+  🤝 Interested in collaborating on projects related to **technology and sustainability 💚**
+  
+  💬 Ask me about **C#, .NET, APIs and Angular**
+  
+  🧶 Fun fact: I love crochet and sci-fi!
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### Frontend
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+
+---
+
+#### Backend
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-0D1117?style=for-the-badge&logo=.net&logoColor=7C3AED)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+
+---
+
+#### Microsservices & DevOps
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 
 
-- 🌱 I’m currently learning **Docker and improving my knowledge in Angular and .Net**
+---
 
-- 👯 I’m looking to collaborate on **projects related to sustainability 💚**
+#### Database & Tools
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-- 🤝 I am working at **NDD Tech** as a Junior Developer
+---
 
-- 💬 Ask me about **C# and .Net!**
+#### Other Technologies
+![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white)
 
-- ⚡ Fun fact **I like crochet! 🧶** 
+</div>
 
-I hope that technology can help the world become a better place to live.
+### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luisa-hub&theme=tokyonight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=luisa-hub&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub Streak"
+  />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luisa-hub&layout=compact&bg_color=000&border_color=30A3DC&title_color=blue&text_color=FFF)
+---
 
+### 🌐 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/luisa-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luisadsilva/)
-[![Dio](https://img.shields.io/badge/-WEB.DIO-000?style=for-the-badge)](https://web.dio.me/users/luisafariasdemacedo?tab=achievements)
+  <a href="https://web.dio.me/users/luisafariasdemacedo?tab=achievements" target="_blank">
+    <img src="https://img.shields.io/badge/DIO-0D1117?style=for-the-badge"/>
+  </a>
+</p>
 
+---
+
+<p align="center">
+✨ Technology can be a powerful tool to make the world a better place.
+</p>
